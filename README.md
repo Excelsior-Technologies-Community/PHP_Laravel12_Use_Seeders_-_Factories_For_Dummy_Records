@@ -1,4 +1,4 @@
-# Laravel 12 – Dummy Data with Factories & Seeders
+# Laravel 12 – Factories & Seeders
 
 A Laravel 12 project that demonstrates how to generate **dummy data** using **Factories and Seeders**.  
 Includes Products, Tags, Multiple Images, Soft Deletes, and Pivot Table relationships.
