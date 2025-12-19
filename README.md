@@ -5,21 +5,21 @@ Includes Products, Tags, Multiple Images, Soft Deletes, and Pivot Table relation
 
 ---
 
-## 📌 Features
+## Features
 
-✅ Laravel 12 setup  
-✅ Factory-based dummy data generation  
-✅ Database seeders  
-✅ Products with:
+ Laravel 12 setup  
+ Factory-based dummy data generation  
+ Database seeders  
+ Products with:
 - Multiple images
 - Tags (Many-to-Many relationship)
 - Soft Deletes
 
-✅ Clean and beginner-friendly structure
+ Clean and beginner-friendly structure
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend**: Laravel 12
 - **Database**: MySQL / SQLite
@@ -28,12 +28,12 @@ Includes Products, Tags, Multiple Images, Soft Deletes, and Pivot Table relation
 
 ---
 
-📸 Project Screenshots
+## Project Screenshots
 
 <img width="1712" height="969" alt="image" src="https://github.com/user-attachments/assets/fa1b1a3f-978d-4cfb-ad2c-70588cf817c8" />
 <img width="1783" height="954" alt="image" src="https://github.com/user-attachments/assets/dea4c5b0-a3e3-41e7-a9b8-f1607e53b2c1" />
 
-## ⚙️ Installation Steps
+##  Installation Steps
 
 ### 1. Clone the repository
 
@@ -73,7 +73,9 @@ Or run everything at once:
 bash
 Copy code
 php artisan migrate:fresh --seed
-🗂️ Database Structure
+
+## Database Structure
+
 Tables Included:
 products
 
@@ -83,7 +85,7 @@ product_images
 
 product_tag (pivot table)
 
-🧪 Sample Data
+## Sample Data
 After running the seeders:
 
 50 Products will be created
